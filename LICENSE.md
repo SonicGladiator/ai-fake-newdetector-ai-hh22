@@ -1,4 +1,4 @@
-# 
+# Automático AI Fake News Detector herramientas. Con análisis de sentimientos y IA en el borde — optimizado para el máximo rendimiento.
 
 
 
